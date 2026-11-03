@@ -10,5 +10,5 @@ Student ID: 73500
 
 ## Collaboration Pull Requests
 
-- My Pull Request to partner's repository: [PASTE LINK]
+- My Pull Request to partner's repository: https://github.com/vistula-team-project-72786/vistula-task-manager/pull/1
 - Partner's Pull Request to my repository: https://github.com/vistula-team-project-73500/vistula-task-manager/pull/1
